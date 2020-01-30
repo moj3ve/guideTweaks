@@ -1,0 +1,9 @@
+Package: sh.litten.switchthecolors
+Name: SwitchTheColors
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change the color of your Switches!
+Maintainer: Litten <hello@litten.sh>
+Author: Litten <hello@litten.sh>
+Section: Tweaks

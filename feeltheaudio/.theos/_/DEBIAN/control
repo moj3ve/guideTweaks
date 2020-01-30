@@ -1,0 +1,10 @@
+Package: sh.litten.feeltheaudio
+Name: FeelTheAudio
+Depends: mobilesubstrate, firmware (>= 13)
+Architecture: iphoneos-arm
+Description: Haptics When Changing The Volume With Your Buttons
+Maintainer: Litten <hello@litten.sh>
+Author: Litten <hello@litten.sh>
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 168
