@@ -6,5 +6,5 @@ Description: Haptics When Changing The Volume With Your Buttons
 Maintainer: Litten <hello@litten.sh>
 Author: Litten <hello@litten.sh>
 Section: Tweaks
-Version: 1.0-1+debug
-Installed-Size: 168
+Version: 1.0-8+debug
+Installed-Size: 696
